@@ -4,8 +4,7 @@ Firmware and host software for a scheduled-dose reminder device. The ESP32 firmw
 
 This project was built to practise **software that orchestrates a physical system**: timing, communication, fault handling, concurrency, and system-level testing — not just an isolated application.
 
-**Repo:** https://github.com/<your-username>/meditrack  
-**Author:** <your-name> · <your-email@example.com>  
+**Repo:** https://github.com/avantikaar/MediTrack
 **Platform:** ESP32 DevKit v1 · DS3231 RTC · Linux host (Python 3.11)
 
 ---
